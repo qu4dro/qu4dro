@@ -9,7 +9,7 @@ Hi, I'm Peter Orlov, junior android developer from Russia, Irkutsk.
 - 💻 You can see my main projects in the pinned
 - 💬 Ask me about anything [here](https://t.me/qu4dro/)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7d8l3ulq2j8phfp3ybiirga6z&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=7d8l3ulq2j8phfp3ybiirga6z&redirect=true)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7d8l3ulq2j8phfp3ybiirga6z&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=7d8l3ulq2j8phfp3ybiirga6z&redirect=true) -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
